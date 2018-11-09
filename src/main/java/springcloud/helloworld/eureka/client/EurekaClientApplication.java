@@ -33,6 +33,10 @@ public class EurekaClientApplication {
         listUser.add("zhangsan");
         listUser.add("lisi");
         listUser.add("wangwu");
+        listUser.add("wangwu");
+        listUser.add("wangwu");
+        listUser.add("wangwu");
+        listUser.add("wangwu");
         return listUser;
     }
 
